@@ -8,7 +8,7 @@ How this works, is that you *shift* each key to the right, and *map* it that way
 ## Some example mappings:
 | Original   | Ciphered   |
 |------------|------------|
-|A           |S           |
-|B           |N           |
-|C           |V           |
-*--------------------------------------------*
+|A|S|
+|B |N |
+|C|V|
+
