@@ -12,3 +12,4 @@ How this works, is that you *shift* each key to the right, and *map* it that way
 |B |N |
 |C|V|
 
+# NOTE: ALGORITH UPDATES PENDING!!
